@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\bin\Debug\net6.0\GoombaProject_AlexanderSullivan.exe
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\bin\Debug\net6.0\GoombaProject_AlexanderSullivan.deps.json
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\bin\Debug\net6.0\GoombaProject_AlexanderSullivan.runtimeconfig.json
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\bin\Debug\net6.0\GoombaProject_AlexanderSullivan.dll
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\bin\Debug\net6.0\GoombaProject_AlexanderSullivan.pdb
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.AssemblyInfo.cs
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.dll
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\refint\GoombaProject_AlexanderSullivan.dll
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.pdb
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\GoombaProject_AlexanderSullivan.genruntimeconfig.cache
+C:\Users\Alex\Desktop\comp 340\GoombaProject_AlexanderSullivan\obj\Debug\net6.0\ref\GoombaProject_AlexanderSullivan.dll
